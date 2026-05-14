@@ -11,7 +11,7 @@
 - 🌱 Currently learning **React, Node.js & Java**
 - 🧠 Improving problem-solving & coding skills daily
 - 🎯 Goal: Become a professional Full-Stack Developer
-- 📫 Reach me: **rukshana.roshan@email.com**
+- 📫 Reach me: **rukshanaroshan.it@gmail.com**
 
 ---
 
