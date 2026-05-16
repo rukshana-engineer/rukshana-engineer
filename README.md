@@ -42,14 +42,7 @@
 ## 📌 Featured Projects
 
 ### 🌐 Personal Portfolio Website
-Responsive portfolio website to showcase my projects and skills.
-
-### 📝 To-Do List Web App
-Task management application built with JavaScript.
-
-### 📊 Student Management System
-CRUD web application using **Java & MySQL**.
-
+https://rukshiroshan.github.io/portfolio-/
 ---
 
 ## 📈 GitHub Stats
@@ -63,3 +56,4 @@ CRUD web application using **Java & MySQL**.
 I’m actively looking for **Junior Software Engineer / Junior Full-Stack Developer opportunities**.
 
 ⭐ From [rukshiroshan](https://github.com/rukshiroshan)
+
