@@ -36,9 +36,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 ---
-
 ## 📌 Featured Projects
 * Personal Portfolio Website
   https://rukshiroshan.github.io/portfolio-/
@@ -51,14 +49,6 @@ https://rukshiroshan.github.io/portfolio-/
 ### Linkedin 
 https://www.linkedin.com/feed/
 ---
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rukshiroshan&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 I’m actively looking for **Junior Software Engineer / Junior Full-Stack Developer opportunities**.
 
