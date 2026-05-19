@@ -38,6 +38,7 @@
 </p>
 ---
 ## 📌 Featured Projects
+
 * Personal Portfolio Website
 
   https://rukshiroshan.github.io/portfolio-/
@@ -56,5 +57,7 @@ https://www.linkedin.com/feed/
 ## 🤝 Let's Connect
 I’m actively looking for **Junior Software Engineer / Junior Full-Stack Developer opportunities**.
 
-⭐ From [rukshiroshan](https://github.com/rukshiroshan)
+⭐ From [rukshiroshan]
+
+(https://github.com/rukshiroshan)
 
