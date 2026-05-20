@@ -1,49 +1,94 @@
-# 🌐 Developer Portfolio Website
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rukshana+Roshan;Full-Stack+Web+Developer;Frontend+%7C+Backend+%7C+Java+%7C+JavaScript;Building+Modern+Web+Experiences" />
+</p>
 
-A modern, responsive personal portfolio website built to showcase my projects, skills, and contact information.
+---
 
-## 🔗 Live Demo
+# 👋 Welcome to My Portfolio
+
+I am a **Full-Stack Developer** passionate about building modern, responsive, and user-friendly web applications.
+
+---
+
+## 🌐 Live Portfolio
 👉 https://rukshana-engineer.github.io/developer-portfolio/
 
 ---
 
-## ✨ Features
-- Fully responsive design (mobile + desktop)
-- Professional UI with clean layout
-- Projects showcase section
-- Contact & social links integration
-- Smooth scrolling and modern styling
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,cs,bootstrap,react,nodejs,git,github" />
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript
+## 🚀 About Me
+
+- 💻 Passionate Full-Stack Developer  
+- 🎯 Focused on building real-world projects  
+- 🌱 Currently learning advanced JavaScript & React  
+- 📱 Love responsive and UI/UX design  
+- 🚀 Always improving my skills
 
 ---
-## 🚀 How to Run Locally
 
-##```bash
-git clone https://github.com/rukshana-engineer/developer-portfolio.git
-cd developer-portfolio
-open index.html
----
----
+## 📊 GitHub Stats
 
-## 👤 Author
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rukshana-engineer&show_icons=true&theme=tokyonight" />
+</p>
 
-Rukshana Roshan
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rukshana-engineer&theme=tokyonight" />
+</p>
 
-LinkedIn: https://linkedin.com/in/your-link
-GitHub: https://github.com/rukshana-engineer
 ---
 
+## 📌 Featured Project
 
+### 🌐 Developer Portfolio Website
+A modern responsive portfolio showcasing my work.
 
+🔗 Live: https://rukshana-engineer.github.io/developer-portfolio/
 
+---
 
+## 📸 Preview
 
+<p align="center">
+  <img src="screenshots/home.png" width="700"/>
+</p>
 
+---
 
+## 🌍 Connect With Me
 
+<p align="center">
+
+<a href="https://github.com/rukshana-engineer">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## ⭐ Quote
+
+> “Code is not just syntax, it’s creativity turned into reality.”
+
+---
+
+🔥 Thanks for visiting my profile!
