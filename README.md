@@ -7,8 +7,7 @@
 
 # 👋 Welcome to My Portfolio
 
-I am a **Full-Stack Developer** passionate about building modern, responsive, and user-friendly web applications.
-
+I am an Aspiring **Junior Software Developer** skilled in JavaScript, React, HTML, and CSS. Passionate about creating responsive web applications, solving problems, and continuously improving development skills.
 ---
 
 ## 🌐 Live Portfolio
